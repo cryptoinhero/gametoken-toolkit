@@ -142,7 +142,24 @@ export const socials = [
   {
     label: "Telegram",
     icon: "TelegramIcon",
-    href: 'https://t.me/GameTokenfi',
+    items: [
+      {
+        label: "Main Channel",
+        href: "https://t.me/gametokenfi",
+      },
+      {
+        label: "Announcements",
+        href: "https://t.me/GameTokenAnnouncements",
+      },
+      {
+        label: "Price Chat",
+        href: "https://t.me/gmepricechat",
+      },
+      {
+        label: "WaterFall",
+        href: "https://t.me/joinchat/Sp6QSD8exOw1Mzll",
+      },
+    ]
   },
   {
     label: "Twitter",
